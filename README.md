@@ -17,7 +17,7 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Download 
-https://github.com/Lucas-Masaba/to_do_list.git
+[Click here](https://github.com/Lucas-Masaba/to_do_list.git)
  
 Follow this link to my GitHub repository. Copy the link from the code button
  
